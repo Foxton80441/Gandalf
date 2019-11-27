@@ -1,0 +1,6 @@
+test document
+I am testing adding a new file to the local branch on my computer.
+
+I am seeing get hub as a smart protal to the repository that provides version control at the gethub end.
+
+Local changes should show up when I commit this file
